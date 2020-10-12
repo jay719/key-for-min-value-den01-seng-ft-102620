@@ -12,5 +12,7 @@ else if value < min_value
   min_value = value
 
 end
-end 
+
 min_key
+
+end
