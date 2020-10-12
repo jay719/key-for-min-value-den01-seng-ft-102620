@@ -14,5 +14,5 @@ else if value < min_value
 end
 
 min_key
-
+end
 end
