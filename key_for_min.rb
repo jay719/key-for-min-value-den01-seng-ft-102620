@@ -9,8 +9,6 @@ if min_value == nil || value < min_value
 min_value = value
 
 
-end
-
 
 end
 
