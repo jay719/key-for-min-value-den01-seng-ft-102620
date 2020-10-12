@@ -2,9 +2,9 @@
 # Given a hash with numeric values, return the key for the smallest value
 
 def key_for_min_value(name_hash)
-name_hash.each do |key ,number|
+name_hash.each do |key ,value|
 
-if number < 100
+if min_value
   winner= name 
   
   number+=1
